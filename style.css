@@ -158,7 +158,20 @@ hr.gradient {
 }
 
 @media (max-width: 600px) {
+    body, h2, h3, h4, p, a, li {
+        font-size: 16px; /* ou 18px pour être lisible */
+    }
+
     iframe {
         width: 100%;
+    }
+
+    #menu a {
+        font-size: 18px;
+    }
+
+    #reco p {
+        font-size: 14px;
+        line-height: 1.5;
     }
 }
