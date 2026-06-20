@@ -162,14 +162,11 @@ hr.gradient {
 }
 
 @media (max-width: 600px) {
-    h4 {
-        font-size: 20px;
+    body {
+        font-size: 17px;
     }
 
     iframe {
         width: 100%;
     }
-	#menu {
-		font-size: 30px;
-	}
 }
