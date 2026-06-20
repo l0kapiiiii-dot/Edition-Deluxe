@@ -25,9 +25,6 @@ header {
 #menu {
     display:none;
     padding-bottom: 15px;
-    a {
-        font-size: 1px;
-    }
 }
 
 #menu.open {
@@ -45,7 +42,6 @@ button {
 
 h4 {
     padding: 40px;
-    font-size: 1px;
     text-align: center;
 }
 
@@ -162,10 +158,6 @@ hr.gradient {
 }
 
 @media (max-width: 600px) {
-    body, a {
-        font-size: 17px;
-    }
-
     iframe {
         width: 100%;
     }
