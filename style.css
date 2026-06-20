@@ -162,7 +162,7 @@ hr.gradient {
 }
 
 @media (max-width: 600px) {
-    body {
+    body, a {
         font-size: 17px;
     }
 
